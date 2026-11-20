@@ -98,7 +98,7 @@ A blog and portfolio platform where visitors can explore articles and the admin 
 **React Application**
 
 <p align="center">
-  <img src="./assets/projects/student-list.png" width="100%" alt="Favourite Student List project preview" />
+  <img src="./assets/projects/fav_st.png" width="100%" alt="Favourite Student List project preview" />
 </p>
 
 A student management application for managing student records and favourite lists.
@@ -178,7 +178,7 @@ A responsive fashion shopping website with product search and combined category 
 **React Application**
 
 <p align="center">
-  <img src="./assets/projects/weatherwise.png" width="100%" alt="WeatherWise project preview" />
+  <img src="./assets/projects/weather.png" width="100%" alt="WeatherWise project preview" />
 </p>
 
 A weather application that fetches current weather information for searched cities.
