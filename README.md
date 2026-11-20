@@ -1,5 +1,9 @@
 # Sivaraj G.
 
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Sivaraj G - MERN Stack Developer" />
+</p>
+
 <p align="left">
   <strong>MERN Stack Developer</strong> &nbsp;·&nbsp; React.js &nbsp;·&nbsp; Node.js
 </p>
