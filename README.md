@@ -47,15 +47,19 @@
 
 ---
 
-
-### 02 / SELECTED WORK
+<h3>02 / SELECTED WORK</h3>
 
 A collection of projects built while exploring frontend and full-stack development.
 
 ---
 
-#### 01. BulkMail
+### 01. BulkMail
+
 **Full Stack Application**
+
+<p align="center">
+  <img src="./assets/projects/bulkmail.png" width="100%" alt="BulkMail project preview" />
+</p>
 
 A MERN application for sending bulk email campaigns. Supports batch delivery through the Brevo API, duplicate removal, campaign history and dashboard analytics.
 
@@ -69,8 +73,13 @@ A MERN application for sending bulk email campaigns. Supports batch delivery thr
 
 ---
 
-#### 02. Blog Portfolio
+### 02. Blog Portfolio
+
 **Full Stack Application**
+
+<p align="center">
+  <img src="./assets/projects/blog.png" width="100%" alt="Blog Portfolio project preview" />
+</p>
 
 A blog and portfolio platform where visitors can explore articles and the admin can manage content through a private dashboard.
 
@@ -84,8 +93,13 @@ A blog and portfolio platform where visitors can explore articles and the admin 
 
 ---
 
-#### 03. Favourite Student List
+### 03. Favourite Student List
+
 **React Application**
+
+<p align="center">
+  <img src="./assets/projects/student-list.png" width="100%" alt="Favourite Student List project preview" />
+</p>
 
 A student management application for managing student records and favourite lists.
 
@@ -99,8 +113,13 @@ A student management application for managing student records and favourite list
 
 ---
 
-#### 04. Planora
+### 04. Planora
+
 **Frontend Application**
+
+<p align="center">
+  <img src="./assets/projects/planora.png" width="100%" alt="Planora project preview" />
+</p>
 
 A responsive event planning application for organising events, managing budgets and tracking event statistics.
 
@@ -114,8 +133,13 @@ A responsive event planning application for organising events, managing budgets 
 
 ---
 
-#### 05. Greenden
+### 05. Greenden
+
 **Frontend Website**
+
+<p align="center">
+  <img src="./assets/projects/greenden.png" width="100%" alt="Greenden project preview" />
+</p>
 
 A responsive three-page plant website featuring product listings and a contact form.
 
@@ -129,8 +153,13 @@ A responsive three-page plant website featuring product listings and a contact f
 
 ---
 
-#### 06. Nostra
+### 06. Nostra
+
 **Frontend Website**
+
+<p align="center">
+  <img src="./assets/projects/nostra.png" width="100%" alt="Nostra project preview" />
+</p>
 
 A responsive fashion shopping website with product search and combined category and rating filters.
 
@@ -144,8 +173,13 @@ A responsive fashion shopping website with product search and combined category 
 
 ---
 
-#### 07. WeatherWise
+### 07. WeatherWise
+
 **React Application**
+
+<p align="center">
+  <img src="./assets/projects/weatherwise.png" width="100%" alt="WeatherWise project preview" />
+</p>
 
 A weather application that fetches current weather information for searched cities.
 
@@ -159,8 +193,13 @@ A weather application that fetches current weather information for searched citi
 
 ---
 
-#### 08. NexaFlow Login
+### 08. NexaFlow Login
+
 **Authentication Application**
+
+<p align="center">
+  <img src="./assets/projects/nexaflow.png" width="100%" alt="NexaFlow Login project preview" />
+</p>
 
 A React and Express authentication application featuring signup, login and password validation.
 
@@ -174,8 +213,13 @@ A React and Express authentication application featuring signup, login and passw
 
 ---
 
-#### 09. NumberMatch
+### 09. NumberMatch
+
 **React Game**
+
+<p align="center">
+  <img src="./assets/projects/numbermatch.png" width="100%" alt="NumberMatch project preview" />
+</p>
 
 A number matching game where players try to match a target number before their chances or timer run out.
 
@@ -188,7 +232,6 @@ A number matching game where players try to match a target number before their c
 [Live Demo](https://sivaraj-bit.github.io/NumberMatch-React-Game/) · [GitHub Repository](https://github.com/sivaraj-bit/NumberMatch-React-Game)
 
 ---
-
 
 <h3>03 / CURRENT FOCUS</h3>
 
