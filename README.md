@@ -1,50 +1,59 @@
-# Sivaraj G.
 
 <p align="center">
   <img src="./assets/github-banner.png" width="100%" alt="Sivaraj G - MERN Stack Developer" />
 </p>
 
-<p align="left">
-  <strong>MERN Stack Developer</strong> &nbsp;·&nbsp; React.js &nbsp;·&nbsp; Node.js
-</p>
+<h3 align="left">MERN Stack Developer · React.js · Node.js</h3>
 
 <p align="left">
   I build web applications with a focus on clean interfaces, practical functionality, and maintainable code. I'm continuously improving my development skills by building real-world projects and exploring new technologies.
 </p>
 
 <p align="left">
-  <a href="https://sivaraj-g-port.vercel.app/">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/sivaraj33">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://sivaraj-g-port.vercel.app/">Portfolio</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/sivaraj33">LinkedIn</a>
+  &nbsp; / &nbsp;
   <a href="mailto:sivagovindharaj@gmail.com">Email</a>
 </p>
 
 ---
 
-### 01 / TECHNOLOGIES
+<h3>01 / TECHNOLOGIES</h3>
 
 **Frontend**
 
-HTML5 · CSS3 · JavaScript · React.js · React Router · Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend technologies" />
+</p>
 
 **Backend**
 
-Node.js · Express.js · REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
+</p>
 
 **Database**
 
-MongoDB · Mongoose · Firebase
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Database technologies" />
+</p>
 
-**Tools**
+**Tools & Platforms**
 
-Git · GitHub · VS Code · Vite · Postman · Cloudinary
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman" alt="Development tools" />
+</p>
 
 ---
 
-### 02 / SELECTED WORK
+<h3>02 / SELECTED WORK</h3>
 
-**Bulk Mail Application**
+<h4>Bulk Mail Application</h4>
 
-A full-stack email campaign platform built with the MERN stack.
+<p>
+  A full-stack email campaign platform built with the MERN stack.
+</p>
 
 - JWT authentication and role-based access control.
 - Batch email delivery with recipient validation.
@@ -52,11 +61,11 @@ A full-stack email campaign platform built with the MERN stack.
 
 **Stack:** React.js · Node.js · Express.js · MongoDB · Brevo API
 
-[Explore the project →](https://github.com/sivaraj-bit/Bulk_Mail_App)
+<a href="https://github.com/sivaraj-bit/Bulk_Mail_App">Explore the project →</a>
 
 ---
 
-### 03 / CURRENT FOCUS
+<h3>03 / CURRENT FOCUS</h3>
 
 - Building full-stack applications with the MERN stack.
 - Improving React and backend development skills.
@@ -64,14 +73,20 @@ A full-stack email campaign platform built with the MERN stack.
 
 ---
 
-### 04 / FIND ME HERE
+<h3>04 / FIND ME HERE</h3>
 
-- Portfolio: https://sivaraj-g-port.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/sivaraj33
-- GitHub: https://github.com/sivaraj-bit
+<p>
+  <a href="https://sivaraj-g-port.vercel.app/">Portfolio</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/sivaraj33">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/sivaraj-bit">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:sivagovindharaj@gmail.com">Email</a>
+</p>
 
 ---
 
-<p align="left">
-  <sub>Building. Learning. Improving.</sub>
+<p align="center">
+  <sub>BUILDING · LEARNING · IMPROVING</sub>
 </p>
